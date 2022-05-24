@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm cristian</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
 
-- 🌱 I’m currently learning **Frameworks, Video games**
+- 🌱 I’m currently learning **Frameworks, Informatic security, Linux**
 
 - 💬 Ask me about **Javascript, React, Angular, Laravel, PHP, mysql, Python, PostgreSql**
 
